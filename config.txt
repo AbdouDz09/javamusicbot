@@ -1,6 +1,5 @@
 token=NTE5OTEzMjExMzc0MzM4MDUw.XSPGug.E4Gro8ciF0R6OUmUJ8nK4qe6wLI
 owner=461468630773661699
 prefix=A.
-game= Abdou Dz Music
 stayinchannel=true
 songinstatus=true
